@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/v2/C4E16AQGVKe_AbltAUQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1668532615974?e=1745452800&v=beta&t=VMvwQC0clx9i-exXfhY-_llJWJlVQuWqfoWkg8O_kB8">
+
 <h1 align="center">Hi 👋, I'm Md Oyahid Murad</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
