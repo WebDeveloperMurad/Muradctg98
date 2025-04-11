@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.freelancer.com/u/webdevMurad](https://www.freelancer.com/u/webdevMurad)
 
-- 💬 Ask me about **HTML,CSS,JavaScript,Bootstrap,JQuery,WordPress Development.**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, JQuery, WordPress Development.**
 
 - 📫 How to reach me **muradctg0001@gmail.com**
 
